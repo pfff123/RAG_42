@@ -1,0 +1,117 @@
+{
+  "search_results": [
+    {
+      "question_id": "q1",
+      "question": "What HTTP endpoint is used to dynamically load a LoRA adapter in vLLM?",
+      "retrieved_sources": [
+        {
+          "file_path": "data/raw/vllm-0.10.1/docs/features/lora.md",
+          "first_character_index": 4745,
+          "last_character_index": 4859
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/examples/others/tensorize_vllm_model.py",
+          "first_character_index": 3857,
+          "last_character_index": 3931
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/docs/features/lora.md",
+          "first_character_index": 6682,
+          "last_character_index": 6724
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/docs/features/lora.md",
+          "first_character_index": 4972,
+          "last_character_index": 5011
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/docs/features/lora.md",
+          "first_character_index": 4075,
+          "last_character_index": 4111
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/vllm/engine/protocol.py",
+          "first_character_index": 11618,
+          "last_character_index": 11696
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/vllm/v1/engine/llm_engine.py",
+          "first_character_index": 11915,
+          "last_character_index": 11981
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/vllm/v1/engine/async_llm.py",
+          "first_character_index": 23798,
+          "last_character_index": 23864
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/vllm/engine/multiprocessing/client.py",
+          "first_character_index": 26477,
+          "last_character_index": 26543
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/tests/lora/conftest.py",
+          "first_character_index": 6524,
+          "last_character_index": 6585
+        }
+      ]
+    },
+    {
+      "question_id": "q2",
+      "question": "What command can be used to evaluate the accuracy of a quantized model using lm_eval with vLLM?",
+      "retrieved_sources": [
+        {
+          "file_path": "data/raw/vllm-0.10.1/docs/features/quantization/quark.md",
+          "first_character_index": 7792,
+          "last_character_index": 7839
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/docs/features/quantization/fp8.md",
+          "first_character_index": 3495,
+          "last_character_index": 3568
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/docs/features/quantization/int4.md",
+          "first_character_index": 3508,
+          "last_character_index": 3608
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/tests/tpu/test_quantization_accuracy.py",
+          "first_character_index": 1167,
+          "last_character_index": 1223
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/tests/quantization/test_quark.py",
+          "first_character_index": 5303,
+          "last_character_index": 5359
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/docs/features/quantization/gptqmodel.md",
+          "first_character_index": 2557,
+          "last_character_index": 2595
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/tools/profiler/nsys_profile_tools/README.md",
+          "first_character_index": 4187,
+          "last_character_index": 4242
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/docs/features/quantization/int8.md",
+          "first_character_index": 3564,
+          "last_character_index": 3708
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/docs/features/quantization/gptqmodel.md",
+          "first_character_index": 2597,
+          "last_character_index": 2655
+        },
+        {
+          "file_path": "data/raw/vllm-0.10.1/vllm/model_executor/layers/quantization/fp8.py",
+          "first_character_index": 23575,
+          "last_character_index": 23635
+        }
+      ]
+    }
+  ],
+  "k": 10
+}
